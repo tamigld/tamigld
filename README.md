@@ -27,16 +27,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tamigld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamigld&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Mais usadas" height="150" alt="languages graph"  />
+</div>
+
   <div align="center">
- # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=tamigld&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=tamigld&theme=dracula&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamigld&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  ## 🏆 GitHub Trophies
+
+  ## 🏆 meu humildes troféis 
   ![](https://github-profile-trophy.vercel.app/?username=tamigld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
-  ### ✍️ Random Dev Quote
+  ### ✍️ frase do dia por um dev!
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
