@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="instagram.com/tamigld" target="_blank">
+  <a href="instagram.com/tamigld"
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="tamigld#5524" target="_blank">
