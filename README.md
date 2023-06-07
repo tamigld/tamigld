@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tamigld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamigld&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Mais usadas" height="150" alt="languages graph"  />
 </div>
 
@@ -44,9 +45,7 @@
   </div>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
