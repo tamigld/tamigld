@@ -14,7 +14,7 @@
     <a href="https://instagram.com/tamigld">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
-    <a href="tamigld#5524" target="_blank">
+    <a href="https://discord.com/tamigld#5524" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
     <a href="https://linkedin.com/in/thamires-galdino-alves-764380172/" target="_blank">
