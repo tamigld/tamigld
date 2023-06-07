@@ -50,9 +50,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tamigld/tamigld/output/snake.svg" alt="Snake animation" />
-
-###
