@@ -27,19 +27,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tamigld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamigld&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+  <div align="center">
+ # 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=tamigld&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=tamigld&theme=dracula&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamigld&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=tamigld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </div>
 
 ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tamigld&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tamigld&theme=dark&hide_border=false)<br/>
-
-
-##
 
 <br clear="both">
 
