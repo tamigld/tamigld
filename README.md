@@ -33,7 +33,7 @@
 
   <div align="center">
 
-  ## 🏆 meu humildes troféis 
+  ## 🏆 meus humildes troféis 
   ![](https://github-profile-trophy.vercel.app/?username=tamigld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
   ### ✍️ frase do dia por um dev!
