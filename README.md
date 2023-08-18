@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">graduanda em Gestão da TI e estudante do SENAI Informática no curso de Fullstack + Mobile!<br><br><br>🌱 no momento estou aprendendo HTML, CSS e entrando em JavaScript.<br><br>totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
+<p align="left">graduada em Gestão da TI, cursando ADS e estudante do SENAI Informática no curso de Fullstack + Mobile!<br><br><br>🌱 <br><br>totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
 
 ###
 
