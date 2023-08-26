@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">graduada em Gestão da TI, cursando ADS e estudante do SENAI Informática no curso de Fullstack + Mobile!<br><br><br>🌱 <br><br>totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
+<p align="left">🌱totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
 
 ###
 
