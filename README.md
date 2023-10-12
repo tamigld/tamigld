@@ -1,12 +1,12 @@
-<h2 align="left">oiê 👋 sou a Thamires!</h2>
+<h2 align="left">olá 👋 <br> sou a Thamires!</h2>
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/1b/24/e1/1b24e1ee2242964e3e226f3bc0f16d35.gif"  />
+<img align="right" height="200" src="https://giffiles.alphacoders.com/214/214441.gif"  />
 
 ###
 
-<p align="left">🌱totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
+<p align="left">🌱 totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
 
 ###
 
