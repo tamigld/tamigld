@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://giffiles.alphacoders.com/214/214441.gif"  />
+<img align="right" height="250" width="200" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"  />
 
 ###
 
@@ -28,7 +28,7 @@
 ###
 
 ###
-  <div align="center">
+  <div align="left">
 
 ## 🚀 minhas skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -50,13 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 
 ##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamigld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-  
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamigld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=panda&hide_border=false&order=2" height="150" alt="languages graph"  />
+    
   ### ✍️ frase do dia por um dev!
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
+</div>
+  
   </div>
