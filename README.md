@@ -1,16 +1,9 @@
-<h2 align="left">olá 👋 <br> sou a Thamires!</h2>
+<h2 align="center">Oiê 👋 <br> sou a Thamires!</h2>
+<p align="center">🌱 totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
 
 ###
 
-<img align="right" height="250" width="200" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"  />
-
-###
-
-<p align="left">🌱 totalmente apaixonada por tecnologia e cada vez mais tendo certeza da área que escolhi!</p>
-
-###
-
-<div align="left">
+<div align="center">
     <a href="https://instagram.com/tamigld">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
@@ -28,7 +21,7 @@
 ###
 
 ###
-  <div align="left">
+  <div align="center">
 
 ## 🚀 minhas skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -55,6 +48,12 @@
   ### ✍️ frase do dia por um dev!
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
+<div>
+<img align="center" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/t9uXq9bdIax9F1xGtng-bZwo0jT3MvEWbAn-Pc9ORrTvMd4kOfGP2fr32_x_OaQGDeQ"/>
+
+**Dev Learning** \
+[**RD**](https://rd.com.br/) • Tempo integral 
+</div>
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
 </div>
