@@ -49,10 +49,11 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 <div>
-<img align="center" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/t9uXq9bdIax9F1xGtng-bZwo0jT3MvEWbAn-Pc9ORrTvMd4kOfGP2fr32_x_OaQGDeQ"/>
+<img align="center" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFkORGIWqNXRQ/company-logo_200_200/0/1710958283160/rdsaudeoficial_logo?e=1719446400&v=beta&t=as4LDLihGcMI-F3XWsn90lwjZmEOIs106IRewin_a3Q"/>
+
 
 **Dev Learning** \
-[**RD**](https://rd.com.br/) • Tempo integral 
+[**RD Saúde**](https://rdsaude.com.br/) • Tempo integral 
 </div>
   
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
